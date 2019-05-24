@@ -9,4 +9,4 @@ Hello, I'm Zach.  I enjoy traveling, especially cruising and visiting theme park
 beshaz
 
 ## Lab Reports
-![Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/report.md)
