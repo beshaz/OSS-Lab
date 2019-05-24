@@ -3,6 +3,7 @@
 
 ## Bio
 Hello, I'm Zach.  I enjoy traveling, especially cruising and visiting theme parks.  While I enjoy all things computer science, my other interest areas include sustainable energy, electric vehicles, and space travel.
+![Zach](images/Zach.jpeg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
