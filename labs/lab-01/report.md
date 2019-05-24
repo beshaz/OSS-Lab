@@ -14,10 +14,10 @@ After reading chapter 3 of Free Culture, I learned that even when working on see
 ## Regex
 
 ### Regex Practice Problems 1-7
-![Problem 1](lab-01-images/Regex-Problem-1)
-![Problem 2](lab-01-images/Regex-Problem-2)
-![Problem 3](lab-01-images/Regex-Problem-3)
-![Problem 4](lab-01-images/Regex-Problem-4)
-![Problem 5](lab-01-images/Regex-Problem-5)
-![Problem 6](lab-01-images/Regex-Problem-6)
-![Problem 7](lab-01-images/Regex-Problem-7)
+![Problem 1](lab-01-images/Regex-Problem-1.png)
+![Problem 2](lab-01-images/Regex-Problem-2.png)
+![Problem 3](lab-01-images/Regex-Problem-3.png)
+![Problem 4](lab-01-images/Regex-Problem-4.png)
+![Problem 5](lab-01-images/Regex-Problem-5.png)
+![Problem 6](lab-01-images/Regex-Problem-6.png)
+![Problem 7](lab-01-images/Regex-Problem-7.png)
