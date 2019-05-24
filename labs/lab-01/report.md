@@ -27,3 +27,6 @@ After reading chapter 3 of Free Culture, I learned that even when working on see
 ![Crossword 2](lab-01-images/Regex-Crossword-2.png)
 ![Crossword 3](lab-01-images/Regex-Crossword-3.png)
 ![Crossword 4](lab-01-images/Regex-Crossword-4.png)
+
+## Blocky
+![Blocky Solved](lab-01-images/Maze-Solved.png)
