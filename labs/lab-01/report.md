@@ -21,3 +21,5 @@ After reading chapter 3 of Free Culture, I learned that even when working on see
 ![Problem 5](lab-01-images/Regex-Problem-5.png)
 ![Problem 6](lab-01-images/Regex-Problem-6.png)
 ![Problem 7](lab-01-images/Regex-Problem-7.png)
+
+### Regex Crossword Puzzles 1-4
