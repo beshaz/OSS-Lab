@@ -23,3 +23,7 @@ After reading chapter 3 of Free Culture, I learned that even when working on see
 ![Problem 7](lab-01-images/Regex-Problem-7.png)
 
 ### Regex Crossword Puzzles 1-4
+![Crossword 1](lab-01-images/Regex-Crossword-1.png)
+![Crossword 2](lab-01-images/Regex-Crossword-2.png)
+![Crossword 3](lab-01-images/Regex-Crossword-3.png)
+![Crossword 4](lab-01-images/Regex-Crossword-4.png)
