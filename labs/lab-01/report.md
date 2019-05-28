@@ -30,3 +30,6 @@ After reading chapter 3 of Free Culture, I learned that even when working on see
 
 ## Blocky
 ![Blocky Solved](lab-01-images/Maze-Solved.png)
+
+## Reflection
+To do this activity, I mainly browsed through the projects listed on the link provided in the lab instructions.  I browsed several projects on the website to see what their goal was, how it was implemented, and if they had a showcase of the current product.  The first project, titled Blockcode, caught my attention early on.  Essentially, the project introduces a programming style similar to Blocky where rather than creating a program using traditional program, premade blocks can be used which have preset values and can be modified using given arguments.  They provide an example where a program using blocks is used to draw a picture.  I found this to be particularly interesting as it is quite powerful, yet simple to use.  A project like this could be used to introduce kids to coding early on in their education, and then expanded to more complex operations utilizing blocks as children grow before transitioning to a traditional programming language and environment.
