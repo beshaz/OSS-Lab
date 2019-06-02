@@ -3,3 +3,4 @@
 ## Part 1
 
 [Lab 2 Part 1 Repository](https://github.com/beshaz/lab2part1)
+![Branching Diagram](lab-02-images/Branching-Diagram.png)
