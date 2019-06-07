@@ -52,6 +52,7 @@ Number of Branches: 14
 
 
 ## Gitstats - Tornado
+In the prior part of the lab, Tornado was found to have 19487 lines of code, while GitStats reports the project has 18581 lines of code.  The first commit was in December 2018 in GitStats and the last commit was in April 2019 in GitStats, which matches the commits previously found.  Both GitHub and GitStats reported that Tornado had three contributors.
 ![Gitstats Tornado](lab-03-images/Gitstats-Tornado.png)
 
 ## Gource Video - Tornado
