@@ -28,9 +28,31 @@ Last Commit: Tuesday June 4, 2019
 
 Number of Branches: 31
 
+### Smart Calendar
+Number of Contributors: 2
 
-### Gitstats - Tornado
+Number of Lines of Code: 844
+
+First Commit: January 14, 2019
+
+Last Commit: April 26, 2019
+
+Current Branches: "master" and "add-license-1"
+
+### YACS
+Number of Contributors: 48
+
+Number of Lines of Code: 26695
+
+First Commit: September 16, 2015
+
+Last Commit: March 5, 2017
+
+Number of Branches: 14
+
+
+## Gitstats - Tornado
 ![Gitstats Tornado](lab-03-images/Gitstats-Tornado.png)
 
-### Gource Video - Tornado
+## Gource Video - Tornado
 ![Gource Video Tornado](lab-03-images/Gource-Video.png)
