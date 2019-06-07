@@ -31,3 +31,6 @@ Number of Branches: 31
 
 ### Gitstats - Tornado
 ![Gitstats Tornado](lab-03-images/Gitstats-Tornado.png)
+
+### Gource Video - Tornado
+![Gource Video Tornado](lab-03-images/Gource-Video.png)
