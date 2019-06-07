@@ -27,3 +27,7 @@ First Commit: Tuesday December 15, 2015
 Last Commit: Tuesday June 4, 2019
 
 Number of Branches: 31
+
+
+### Gitstats - Tornado
+![Gitstats Tornado](lab-03-images/Gitstats-Tornado.png)
