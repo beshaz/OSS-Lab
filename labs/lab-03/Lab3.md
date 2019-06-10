@@ -1,5 +1,10 @@
 # Lab 3: Documentation and Community
 
+## Part 1
+
+![Latex Formulae](lab-03-images/Latex-Formulae.png)
+![Hadamard Matrix](lab-03-images/Hadamard-Matrix.png)
+
 ## Part 2
 
 ### Tornado
