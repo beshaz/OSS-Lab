@@ -2,6 +2,7 @@
 
 ## Part 1
 
+[Project Idea Wiki Page](https://github.com/beshaz/oss-repo-template/wiki)
 ![Latex Formulae](lab-03-images/Latex-Formulae.png)
 ![Hadamard Matrix](lab-03-images/Hadamard-Matrix.png)
 
