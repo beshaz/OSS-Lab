@@ -11,7 +11,9 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 
 * I would agree with the claim that the Web development team beat Gopher by following the Open System Model.  The Web development team built a minimal piece of software which was then released to the community for further development.  By following this approach, interested developers were able to jump in and contribute their expertise, ideas, and opinions for technological decisions.  By opening this up beyond a concentrated community, the Web development team was able to gain a better concensus for how people wanted the web to operate, creating a better end product.  Meanwhile, the Gopher team declined to share their work with the broader community, instead shaping these new protocols and technologies to how they would like them to operate, which alienated other developers who did not agree with their decisions and ideology.
 
-## Android, Linux, Microsoft .NET Core, and SailfishOS
+## Linux License Choice
+
+* Linux chose the GPL v2 license for their project.  The goal of Linux is to provide a free operating system to its user, as opposed to other operating systems such as macOS or Windows which either require a paid license or proprietary to use.  Linux is a free download for all, and since it is open source the project encourages people to contribute to its development or create different flavors of it based on the Linux base ([Source](https://www.linux.com/what-is-linux)).  In order to support this goal, Linux uses the GPL v2 license.  This license allows Linux to be reused in other projects as long as those projects use the same GPL license.  This meets Linux's goal of community development by giving flexibility in its use while at the same time allowing developers to integrate new advancements into the original project ([Source](https://en.wikipedia.org/wiki/Linux)).
 
 ## Open Source Project and Business Model
 
