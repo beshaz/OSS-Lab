@@ -12,4 +12,4 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 
 Website | License Present | License
 --- | --- | ---
-fun.com | Maybe | The Fun License
+https://github.com/kaijianz/alvitr | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
