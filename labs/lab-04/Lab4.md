@@ -13,3 +13,7 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 Website | License Present | License
 --- | --- | ---
 https://github.com/kaijianz/alvitr | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+https://github.com/anchor-site/anchor | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+https://github.com/angel-project/framework | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+https://github.com/colegregory/animate.css | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+https://github.com/antimoz-om/antimoz | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
