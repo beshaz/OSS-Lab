@@ -4,6 +4,9 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 
 ## [Four Criteria for Free Software](http://www.gnu.org/philosophy/free-sw.html)
 
+* It is important to choose a license for your software so that its users have a defined agreement for how they are legally able to use your software.  If you have specific limitations to how you want your software to be used, changed, or redistributed, then you must choose the appropriate license that defines these actions to the user so that they are able to legally use your work.
+* You shouldn't use a project that doesn't have an explicit license because doing so could put you into legal jeopardy.  Since their work would technically be protected by copyright laws, modifying or redistributing their code would be illegal without a license that clearly gives you permission to do so.
+
 ## [Failure to Follow the Open System Model](http://ils.unc.edu/callee/gopherpaper.htm#explain)
 
 ## Android, Linux, Microsoft .NET Core, and SailfishOS
