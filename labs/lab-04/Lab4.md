@@ -8,6 +8,8 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 
 ## Android, Linux, Microsoft .NET Core, and SailfishOS
 
+## Projects and Licenses
+
 Website | License Present | License
 --- | --- | ---
 fun.com | Maybe | The Fun License
