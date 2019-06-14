@@ -9,6 +9,8 @@ This lab report is licensed using the [Creative Commons License](https://creativ
 
 ## [Failure to Follow the Open System Model](http://ils.unc.edu/callee/gopherpaper.htm#explain)
 
+* I would agree with the claim that the Web development team beat Gopher by following the Open System Model.  The Web development team built a minimal piece of software which was then released to the community for further development.  By following this approach, interested developers were able to jump in and contribute their expertise, ideas, and opinions for technological decisions.  By opening this up beyond a concentrated community, the Web development team was able to gain a better concensus for how people wanted the web to operate, creating a better end product.  Meanwhile, the Gopher team declined to share their work with the broader community, instead shaping these new protocols and technologies to how they would like them to operate, which alienated other developers who did not agree with their decisions and ideology.
+
 ## Android, Linux, Microsoft .NET Core, and SailfishOS
 
 ## Open Source Project and Business Model
