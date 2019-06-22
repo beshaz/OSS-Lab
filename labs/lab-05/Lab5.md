@@ -21,7 +21,7 @@
 
 ### Step 4
 
-[Step 4 Files]lab-05-files/Step%204)
+[Step 4 Files](lab-05-files/Step%204)
 
 ![ctest -VV Output](lab-05-images/Step-4-CTEST-VV.png)
 
