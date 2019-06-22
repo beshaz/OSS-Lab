@@ -17,16 +17,16 @@
 
 [Step 3 Files]()
 
-![Step 3 Tutorial Output](lab-5-images/Step-3-Terminal.png)
+![Step 3 Tutorial Output](lab-05-images/Step-3-Terminal.png)
 
 ### Step 4
 
 [Step 4 Files]()
 
-![ctest -VV Output](lab-5-images/Step-4-CTEST-VV.png)
+![ctest -VV Output](lab-05-images/Step-4-CTEST-VV.png)
 
 ### Step 5
 
 [Step 5 Files]()
 
-![Step 5 Tutorial Output](lab-5-images/Step-5-Terminal.png)
+![Step 5 Tutorial Output](lab-05-images/Step-5-Terminal.png)
