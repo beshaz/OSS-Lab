@@ -32,3 +32,13 @@
 ![Step 5 Tutorial Output](lab-05-images/Step-5-Terminal.png)
 
 ## Lab Example Make/CMake
+
+File Sizes Made From Make File:
+![Make File Sizes](lab-05-images/Make-File-Sizes.png)
+
+File Sizes Made From CMake File:
+![CMake File Sizes](lab-05-images/CMake-File-Sizes.png)
+
+[Make Files](lab-05-files/Make%20Files/build.sh)
+
+[CMake Files](lab-05-files/CMake%20Files)
