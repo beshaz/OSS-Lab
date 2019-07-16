@@ -10,7 +10,7 @@
 
 ## Example 2
 ![RocketChat Terminal](lab-06-images/Example2-Terminal.png)
-![RocketChat Localhost](lab-06-images/Example2-Rocketchat.png)
+![RocketChat Localhost](lab-06-images/Example2-RocketChat.png)
 
 ## Example 3
 ![Hello](lab-06-images/Example3-Hello.png)
