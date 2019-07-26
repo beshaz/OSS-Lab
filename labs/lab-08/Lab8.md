@@ -19,4 +19,4 @@
 ![5](lab-08-images/Regression-5.png)
 
 ## Project Observatory Page
-[Shuttle Tracker](https://rcos.io/projects/ishuttletracker/ishuttletracker/profile)
+[Shuttle Tracker](https://rcos.io/projects/wtg/shuttletracker/profile)
