@@ -11,14 +11,14 @@
 ### Shirt
 ![Shirt](lab-09-images/Shirt.jpg)
 ![Shirt Grayscale](lab-09-images/Shirt-Grayscale.jpg)
-![Shirt Results](lab-09-images/Shirt-Prediction.jpg)
+![Shirt Results](lab-09-images/Shirt-Prediction.png)
 
 ### Yeezy Turtle Doves
 ![Turtle Doves](lab-09-images/Yeezy-Turtle-Doves.jpg)
 ![Turtle Doves Grayscale](lab-09-images/Yeezy-Turtle-Doves-Grayscale.jpg)
-![Turtle Doves Results](lab-09-images/Yeezy-Turtle-Dove-Prediction.jpg)
+![Turtle Doves Results](lab-09-images/Yeezy-Turtle-Dove-Prediction.png)
 
 ### Yeezy Zebras
 ![Zebras](lab-09-images/Yeezy-Zebra.jpg)
 ![Zebras Grayscale](lab-09-images/Yeezy-Zebra-Grayscale.jpg)
-![Zebras Results](lab-09-images/Yeezy-Zebra-Prediction.jpg)
+![Zebras Results](lab-09-images/Yeezy-Zebra-Prediction.png)
