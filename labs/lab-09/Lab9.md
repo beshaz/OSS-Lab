@@ -16,7 +16,7 @@
 ### Yeezy Turtle Doves
 ![Turtle Doves](lab-09-images/Yeezy-Turtle-Doves.jpg)
 ![Turtle Doves Grayscale](lab-09-images/Yeezy-Turtle-Doves-Grayscale.jpg)
-![Turtle Doves Results](lab-09-images/Yeezy-Turtle-Doves-Prediction.jpg)
+![Turtle Doves Results](lab-09-images/Yeezy-Turtle-Dove-Prediction.jpg)
 
 ### Yeezy Zebras
 ![Zebras](lab-09-images/Yeezy-Zebra.jpg)
